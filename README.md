@@ -6,12 +6,12 @@ Hello people, in this project I had my introduction to React.js, I hope you like
 
 Bonjour à tous, dans ce projet j'ai fait mon introduction à React.js, j'espère qu'il vous plaira !
 
-## Local running
-
 Clone the project
 ```bash
   git clone https://github.com/nicolasQuack/ToDoList.git
 ```
+
+## Local running without Docker
 
 Go to the project directory
 ```bash
@@ -27,7 +27,22 @@ Launch the server
 ```bash
   npm run dev
 ```
+## Local running with Docker
 
+Go to the project directory
+```bash
+  cd my-project
+```
+
+To install and run the dev server for the first time
+```bash
+  make first
+```
+
+To install and run after "make first"
+```bash
+  make start
+```
 
 ## Features
 
@@ -45,12 +60,13 @@ Launch the server
 
 **Back-end:** Node
 
-**Management of dependencies:** Vite
+**Management of dependencies:** Vite, Makefile
 
 
 ## Future features
 
-- [ ]  Docker & Kubernetes: virtualization and orchestration.
+- [x]  Docker virtualization.
+- [ ]  Kubernetes: orchestration.
 - [ ]  REST API: connection between back and front-end.
 - [ ]  MySQL: data storage.
 - [ ]  Cloud AWS: cloud service.
