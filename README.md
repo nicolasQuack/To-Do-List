@@ -1,33 +1,56 @@
-Olá, nesse projeto tive a introdução ao React.js.
 
-Nesse primeiro repositório, criei uma "to do list" para marcar e desmarcar as tarefas corriquieras, no processo tive que implementar algumas funcionalidades, tais como descrito abaixo:
+# To do list - React by Nicolas
+Olá pessoas, nesse projeto tive a minha introdução ao React.js.
 
-    - adicionar tarefas.
-    - remover tarefas.
-    - marcar como tarefa feita e desmarcar.
-    - filtrar por ordem alfabética.
-    - filtrar por ordem de criação.
-    - filtrar por pesquisa.
+Hello people, in this project I had my introduction to React.js.
 
-para iniciar o projeto, basta usar
-//
-npm run dev 
-//
-,no terminal do diretório.
+Bonjour à tous, dans ce projet, j'ai fait mon introduction à React.js.
 
-As tecnologias utilizadas foram as seguintes:
+## Local running
 
-    - Java Script
-    - React
-    - Node
-    - HTML5
-    - CSS3
-    - Vite
-    - git
+Clone the project
+```bash
+  git clone https://github.com/nicolasQuack/ToDoList.git
+```
 
-Próximas features:
+Go to the project directory
+```bash
+  cd my-project
+```
 
-    - [] Docker & Kubernetes: virtualização e orquestração.
-    - [] API REST: conexão entre o back e front-end.
-    - [] MySQL: armaznamento de dados.
-    - [] Cloud AWS: serviço de nuvem.
+Install the dependencies
+```bash
+  npm install
+```
+
+Launch the server
+```bash
+  npm run dev
+```
+
+
+## Features
+
+- add tasks.
+- remove tasks.
+- mark as done and unmark.
+- filter by alphabetical order.
+- filter by order of creation.
+- filter by search.
+
+
+## Stack used
+
+**Front-end:** React, JavaScript, HTML5, CSS3
+
+**Back-end:** Node
+
+**Management of dependencies:** Vite
+
+
+## Future features
+
+- [ ]  Docker & Kubernetes: virtualization and orchestration.
+- [ ]  REST API: connection between back and front-end.
+- [ ]  MySQL: data storage.
+- [ ]  Cloud AWS: cloud service.
