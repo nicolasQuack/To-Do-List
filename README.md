@@ -1,10 +1,10 @@
 
 # To do list - React by Nicolas
-Olá pessoas, nesse projeto tive a minha introdução ao React.js.
+Olá pessoas, nesse projeto tive a minha introdução ao React.js, espero que goste!
 
-Hello people, in this project I had my introduction to React.js.
+Hello people, in this project I had my introduction to React.js, I hope you like it!
 
-Bonjour à tous, dans ce projet, j'ai fait mon introduction à React.js.
+Bonjour à tous, dans ce projet j'ai fait mon introduction à React.js, j'espère qu'il vous plaira !
 
 ## Local running
 
