@@ -27,7 +27,7 @@ As tecnologias utilizadas foram as seguintes:
 
 Próximas features:
 
-    - Docker & Kubernetes: virtualização e orquestração.
-    - API REST: conexão entre o back e front-end.
-    - MySQL: armaznamento de dados.
-    - Cloud AWS: serviço de nuvem.
+    - [] Docker & Kubernetes: virtualização e orquestração.
+    - [] API REST: conexão entre o back e front-end.
+    - [] MySQL: armaznamento de dados.
+    - [] Cloud AWS: serviço de nuvem.
